@@ -1,3 +1,13 @@
+# Deprecated… Come over to ViewControllerPresentationSpy
+
+This library has been renamed to [ViewControllerPresentationSpy](https://github.com/jonreid/ViewControllerPresentationSpy).
+
+* It introduces a new verifier for presented view controller.
+* The verifiers are now in Swift, so you no longer need a bridging header.
+* Other compatibility-breaking changes.
+
+---
+
 # MockUIAlertController
 
 [![Build Status](https://travis-ci.org/jonreid/MockUIAlertController.svg?branch=master)](https://travis-ci.org/jonreid/MockUIAlertController)
